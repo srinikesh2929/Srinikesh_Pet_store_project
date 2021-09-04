@@ -39,4 +39,6 @@ h2{
 }
 a,a:hover{
   color:#343a40;
+  width:16px;
+  height:auto;
 }
