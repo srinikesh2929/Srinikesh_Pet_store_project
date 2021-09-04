@@ -37,7 +37,7 @@ h2{
 .footericon i{
   margin:1%;
 }
-a,a:hover{
+footer div a,footer div a:hover{
   color:#343a40;
   width:16px;
   height:auto;
